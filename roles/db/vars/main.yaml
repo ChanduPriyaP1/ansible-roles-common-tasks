@@ -1,0 +1,6 @@
+user: root
+# password: ExpenseApp@1
+DB_HOST: 172.31.92.220
+
+#Run the playbook
+# ansible-playbook main.yaml -e component=bd
